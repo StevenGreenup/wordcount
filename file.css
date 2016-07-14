@@ -1,0 +1,10 @@
+body p {
+  position: fixed;
+  right: 0px;
+  top: 150px;
+}
+
+.box{
+  margin-left: 500px;
+  margin-right: 500px;
+}
